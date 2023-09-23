@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/img/antimatter-dark.png" alt="AntiMatter MD Logo" width="256" height="256" />
+  <img src="/static/img/antimatter-dark.png" alt="AntiMatter MD Logo" width="256" height="256" />
 <h1>AntiMatter</h1>
 </div>
 
